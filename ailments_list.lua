@@ -1,0 +1,15 @@
+local assetIdToMission = {
+    ["rbxassetid://18861586659"] = "Drink",
+    ["rbxassetid://18861596457"] = "Salon",
+    ["rbxassetid://18861597514"] = "Shower",
+    ["rbxassetid://18861598641"] = "Sleep",
+    ["rbxassetid://18861587647"] = "Food",
+    ["rbxassetid://18861582601"] = "Car",
+    ["rbxassetid://18861600682"] = "Throw",
+    ["rbxassetid://18861581779"] = "Camp",
+    ["rbxassetid://18861580580"] = "School",
+    ["rbxassetid://18861601959"] = "Potty",
+    ["rbxassetid://18861579446"] = "Beach",
+    ["rbxassetid://18861603059"] = "Walk",
+    ["rbxassetid://109582930276834"] = "Pet",
+}
