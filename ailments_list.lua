@@ -1,4 +1,4 @@
-local assetIdToMission = {
+return {
     ["rbxassetid://18861586659"] = "Drink",
     ["rbxassetid://18861596457"] = "Salon",
     ["rbxassetid://18861597514"] = "Shower",
